@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage - Highest Priority -->
+  <url>
+    <loc>https://friendscabs.in/</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://friendscabs.in/images/logo.style.png</image:loc>
+      <image:title>FriendsCabs Logo - Best Cab Services in Chennai</image:title>
+      <image:caption>FriendsCabs - Premium Cab Service in Chennai, Tamil Nadu</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://friendscabs.in/images/icon.png</image:loc>
+      <image:title>FriendsCabs Icon</image:title>
+      <image:caption>FriendsCabs brand icon for best cab services in Chennai</image:caption>
+    </image:image>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://friendscabs.in/about.html</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://friendscabs.in/images/logo.style.png</image:loc>
+      <image:title>About FriendsCabs - Best Cab Service Chennai</image:title>
+      <image:caption>Learn about FriendsCabs, Chennai's most trusted cab service founded by Prakash Castro</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Services Page -->
+  <url>
+    <loc>https://friendscabs.in/services.html</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://friendscabs.in/images/logo.style.png</image:loc>
+      <image:title>FriendsCabs Services - City Rides, Airport Taxi, Outstation Cabs Chennai</image:title>
+      <image:caption>Complete cab services in Chennai including airport transfers, outstation trips, and city rides</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Booking Page - High Priority (conversion page) -->
+  <url>
+    <loc>https://friendscabs.in/booking.html</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://friendscabs.in/images/logo.style.png</image:loc>
+      <image:title>Book a Cab Online - FriendsCabs Chennai</image:title>
+      <image:caption>Book the best cab in Chennai online with FriendsCabs. Instant taxi booking for airport transfers and outstation trips</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://friendscabs.in/contact.html</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://friendscabs.in/images/logo.style.png</image:loc>
+      <image:title>Contact FriendsCabs - Best Cab Service Chennai</image:title>
+      <image:caption>Contact FriendsCabs for 24/7 cab service in Chennai. Call +91 86108 25707</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://friendscabs.in/images/visitingcard.png</image:loc>
+      <image:title>FriendsCabs Visiting Card</image:title>
+      <image:caption>FriendsCabs business card with contact details for best cab services in Chennai</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

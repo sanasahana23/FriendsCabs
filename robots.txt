@@ -1,0 +1,30 @@
+# Robots.txt for FriendsCabs - https://friendscabs.in
+# Best Cab Services in Chennai
+
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /about.html
+Allow: /services.html
+Allow: /booking.html
+Allow: /contact.html
+
+# Disallow non-content directories
+Disallow: /js/
+Disallow: /css/
+
+# Crawl Delay (polite crawling)
+Crawl-delay: 5
+
+# Sitemap location
+Sitemap: https://friendscabs.in/sitemap.xml
+
+# Google specific
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 2
+
+# Bing specific
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 5
